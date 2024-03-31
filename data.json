@@ -1,0 +1,131 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Robusta Jawa",
+            "size": "150 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=robusta+jawa&tbm=shop",
+            "foto": "https://images.pexels.com/photos/7507355/pexels-photo-7507355.jpeg"
+        }
+    ],
+    "non kopi": [
+        {
+            "foto": "https://images.pexels.com/photos/1343465/pexels-photo-1343465.jpeg",
+            "nama": "Es Krim",
+            "size": "200 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Ocha",
+            "size": "100 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ocha&tbm=shop",
+            "foto": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg"
+        },
+        {
+            "nama": "Jus Jeruk",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=jus+jeruk&tbm=shop",
+            "foto": "https://images.pexels.com/photos/1420042/pexels-photo-1420042.jpeg"
+        },
+        {
+            "nama": "Susu Kedelai",
+            "size": "150 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=susu+kedelai&tbm=shop",
+            "foto": "https://images.pexels.com/photos/1435706/pexels-photo-1435706.jpeg"
+        }
+    ],
+    "makanan": [
+        {
+            "nama": "Nasi Goreng",
+            "size": "300 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=nasi+goreng&tbm=shop",
+            "foto": "https://images.pexels.com/photos/3926133/pexels-photo-3926133.jpeg"
+        },
+        {
+            "nama": "Mie Goreng",
+            "size": "300 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=mie+goreng&tbm=shop",
+            "foto": "https://images.pexels.com/photos/3727197/pexels-photo-3727197.jpeg"
+        },
+        {
+            "nama": "Sup Ayam",
+            "size": "250 Gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=sup+ayam&tbm=shop",
+            "foto": "https://images.pexels.com/photos/1703272/pexels-photo-1703272.jpeg"
+        }
+    ],
+    "cemilan": [
+        {
+            "nama": "Kentang Goreng",
+            "size": "200 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kentang+goreng&tbm=shop",
+            "foto": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg"
+        },
+        {
+            "nama": "Chicken Wings",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=chicken+wings&tbm=shop",
+            "foto": "https://images.pexels.com/photos/16108119/pexels-photo-16108119/free-photo-of-korean-fried-chicken-wings-with-sauce.jpeg"
+        },
+        {
+            "nama": "Onion Rings",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=onion+rings&tbm=shop",
+            "foto": "https://images.pexels.com/photos/6036950/pexels-photo-6036950.jpeg"
+        },
+        {
+            "nama": "Roti Bakar",
+            "size": "250 ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=roti+bakar&tbm=shop",
+            "foto": "https://images.pexels.com/photos/5591730/pexels-photo-5591730.jpeg"
+        }
+    ]
+}
